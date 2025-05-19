@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "queue": "cpp",
+        "atomic": "cpp",
+        "memory": "cpp",
+        "ostream": "cpp",
+        "xlocmes": "cpp",
+        "istream": "cpp"
+    }
+}
